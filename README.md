@@ -12,7 +12,7 @@ You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](h
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat&logo=gnubash&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Tools-Spark-informational?style=flat&logo=apachespark&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=ff69b4)
